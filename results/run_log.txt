@@ -1,0 +1,19 @@
+[synthetic] 19 workloads, 4664 pairs
+[tiger 22051] 200 water polygons; verts min/med/max=50/109/4848
+  [tiger_22051_d0.1] cand=356 sel=1.000 phi=0.295 naive/prog=3.39 brink/prog=2.97 correct=1
+  [tiger_22051_d0.25] cand=333 sel=1.000 phi=0.223 naive/prog=4.49 brink/prog=4.04 correct=1
+  [tiger_22051_d0.5] cand=312 sel=1.000 phi=0.186 naive/prog=5.36 brink/prog=4.92 correct=1
+  [tiger_22051_d1.0] cand=313 sel=1.000 phi=0.177 naive/prog=5.64 brink/prog=5.08 correct=1
+[tiger 27137] 200 water polygons; verts min/med/max=50/103/5817
+  [tiger_27137_d0.1] cand=203 sel=1.000 phi=0.060 naive/prog=16.77 brink/prog=10.10 correct=1
+  [tiger_27137_d0.25] cand=192 sel=1.000 phi=0.092 naive/prog=10.85 brink/prog=7.17 correct=1
+  [tiger_27137_d0.5] cand=136 sel=1.000 phi=0.067 naive/prog=14.83 brink/prog=9.84 correct=1
+  [tiger_27137_d1.0] cand=76 sel=1.000 phi=0.063 naive/prog=15.80 brink/prog=11.29 correct=1
+[tiger 53033] 200 water polygons; verts min/med/max=50/85/6712
+  [tiger_53033_d0.1] cand=215 sel=1.000 phi=0.182 naive/prog=5.51 brink/prog=3.99 correct=1
+  [tiger_53033_d0.25] cand=198 sel=1.000 phi=0.180 naive/prog=5.55 brink/prog=4.10 correct=1
+  [tiger_53033_d0.5] cand=137 sel=1.000 phi=0.154 naive/prog=6.50 brink/prog=4.63 correct=1
+  [tiger_53033_d1.0] cand=78 sel=1.000 phi=0.162 naive/prog=6.16 brink/prog=4.79 correct=1
+[tiger_22051x22103] |R|=200 |S|=200 cand=0 sel=0.000 phi=0.000 naive/prog=0.00 correct=1
+[tiger_27031x27137] |R|=200 |S|=200 cand=0 sel=0.000 phi=0.000 naive/prog=0.00 correct=1
+[done] 33 workloads -> results/all_summary.csv

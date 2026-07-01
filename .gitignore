@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/tiger/*.zip
+results/tiger/
+.venv/
+*.egg-info/

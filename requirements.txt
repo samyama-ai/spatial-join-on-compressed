@@ -1,0 +1,12 @@
+# Pinned for reproducibility (Python 3.12). Regenerate every number with ./run.sh
+shapely==2.1.2
+geopandas==1.1.4
+pyogrio==0.13.0
+topojson==1.10
+hilbertcurve==2.0.5
+pymorton==1.0.5
+numpy==2.4.4
+pandas==2.3.3
+scipy==1.17.1
+matplotlib==3.10.8
+requests==2.32.5

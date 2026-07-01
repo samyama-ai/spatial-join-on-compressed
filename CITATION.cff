@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite it and the accompanying preprint."
+title: "Spatial joins on compressed geometry: a decode-work law"
+abstract: >-
+  A reproducible harness and empirical study of provably-exact spatial joins over
+  a compressed, progressively-decodable geometry codec. We characterise the
+  decompression cost of filter-and-refine as an instance-optimal decode-work law:
+  the certifying depth (and per-pair decoded fraction) is governed by the signed
+  clearance margin of each candidate pair, independent of object size, with a
+  worst case at the trivial read bound. Benchmarked against decompress-then-join
+  and the Brinkhoff et al. (1994) multi-step baseline on US Census TIGER water
+  polygons.
+authors:
+  - family-names: "Samyama Research"
+    name-particle: ""
+version: 0.1.0
+license: Apache-2.0
+date-released: "2026-07-01"
+keywords:
+  - spatial join
+  - compressed geometry
+  - progressive decoding
+  - instance-optimal
+  - computational geometry
+repository-code: "https://github.com/samyama-ai/spatial-join-on-compressed"

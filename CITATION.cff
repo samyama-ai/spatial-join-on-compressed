@@ -23,3 +23,18 @@ keywords:
   - instance-optimal
   - computational geometry
 repository-code: "https://github.com/samyama-ai/spatial-join-on-compressed"
+preferred-citation:
+  type: article
+  title: "The Decode-Work Law: Margin-Governed, Provably-Exact Spatial Joins over Compressed Geometry"
+  authors:
+    - family-names: "Mandarapu"
+      given-names: "Madhulatha"
+    - family-names: "Kunkunuru"
+      given-names: "Sandeep"
+  year: 2026
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2607.01182"
+      description: "arXiv preprint identifier"
+  url: "https://arxiv.org/abs/2607.01182"

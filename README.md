@@ -13,6 +13,9 @@ and characterizes when it wins.
 Problem: [`20-spatial-databases/spatial-join-on-compressed`](https://github.com/samyama-ai/dbms_research)
 in the DBMS Research catalog.
 
+**Preprint:** *The Decode-Work Law: Margin-Governed, Provably-Exact Spatial Joins over Compressed
+Geometry* — [arXiv:2607.01182](https://arxiv.org/abs/2607.01182) (cs.DB; cross-list cs.CG).
+
 ## The claim, honestly stated
 
 On real US Census **TIGER water polygons**, a progressive certificate join over a Douglas–Peucker

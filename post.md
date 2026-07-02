@@ -33,7 +33,7 @@ Code + preprint + one-command reproduction inside. **Did we get the decode accou
 you push the law — predicate-aware codecs, a decode-vs-margin bound, the non-native-codec case?**
 
 Code: github.com/samyama-ai/spatial-join-on-compressed
-Preprint: [arXiv link once live]
+Preprint: arxiv.org/abs/2607.01182
 
 #SpatialDatabases #ComputationalGeometry #GIS #DatabaseSystems #OpenScience
 
